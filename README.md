@@ -2,8 +2,8 @@
 
 A clean and interactive finance dashboard built with React, Redux Toolkit, and Tailwind CSS. Built as a frontend assignment to demonstrate UI design, state management, and data visualization skills.
 
-🔗 **Live Demo**: [your-netlify-link-here]  
-📁 **Repository**: [your-github-link-here]
+🔗 **Live Demo**: https://tushar-finance-dashboard.netlify.app  
+📁 **Repository**: https://github.com/T-Sharma-YS-2003/finance-dashboard
 
 ---
 
