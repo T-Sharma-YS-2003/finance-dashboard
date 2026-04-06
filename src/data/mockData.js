@@ -163,12 +163,4 @@ export const initialTransactions = [
   },
 ];
 
-export const CATEGORIES = [
-  "Food",
-  "Housing",
-  "Health",
-  "Utilities",
-  "Subscriptions",
-  "Travel",
-  "Other",
-];
+export const CATEGORIES = ["Food", "Housing", "Health", "Utilities", "Subscriptions", "Travel", "Income", "Other"];
